@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello,conflict merge");
         System.out.println("hello,git again again");
         System.out.println("hello,hot-fix");
+        System.out.println("hello master conflict merge");
     }
 }
