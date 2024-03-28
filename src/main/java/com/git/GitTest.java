@@ -11,5 +11,7 @@ public class GitTest {
 
         System.out.println("============");
         System.out.println("hello master conflict merge");
+
+        System.out.println("push test");
     }
 }
